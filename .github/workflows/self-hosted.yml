@@ -8,4 +8,4 @@ jobs:
     runs-on: self-hosted
     steps:
     - name: Print something
-      run: echo hello jklsafdklfsdfas
+      run: echo hello jklsafdklfsdfas && sleep 10000
