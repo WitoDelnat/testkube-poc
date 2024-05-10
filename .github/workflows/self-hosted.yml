@@ -7,5 +7,5 @@ jobs:
   build:
     runs-on: self-hosted
     steps:
-    - name: Build the Docker image
-      run: echo WITO
+    - name: Print something
+      run: echo hello jklsafdklfsdfas
